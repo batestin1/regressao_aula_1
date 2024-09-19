@@ -26,7 +26,7 @@ Aqui, um agente interage com um ambiente e aprende a tomar decisões por tentati
 
 ## Conteúdo do Notebook
 
-- Introdução ao conceito de **regressão linear simples**, **regressão linear multipla** e **regressão polomonial**.
+- Introdução ao conceito de **regressão linear simples**, **regressão linear multipla** e **regressão polynomial**.
 - Implementação de algoritmos de regressão usando **Python** e bibliotecas como **scikit-learn**.
 - Análise e visualização dos resultados utilizando gráficos e métricas de avaliação.
 
